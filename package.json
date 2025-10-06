@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "avsc": "^5.7.9",
+    "kafkajs": "^2.2.4",
+    "winston": "^3.18.3"
   }
 }
